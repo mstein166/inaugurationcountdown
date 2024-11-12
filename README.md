@@ -4,7 +4,7 @@ I respect and value your privacy. This Privacy Policy describes how I handle and
 
 **Information Collection**
 
-My Google Chrome Extensions do not collect any personal information from users. I do not gather, store, or transmit any data that can be used to personally identify you, such as your name, email address, or location. None of your data is sold to third parties.
+My Google Chrome Extensions do not collect any personal information from users. I do not gather, store, or transmit any data that can be used to personally identify you, such as your name, email address, or demographic information. None of your data is sold to third parties.
 
 **Changes to this Privacy Policy**
 
